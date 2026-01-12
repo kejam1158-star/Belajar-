@@ -1,0 +1,1 @@
+print("SISTEM GEMINI SUDAH MASUK!")
